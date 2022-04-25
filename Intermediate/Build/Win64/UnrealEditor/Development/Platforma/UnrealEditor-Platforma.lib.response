@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Platforma.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\C++\games\Platforma\Intermediate\Build\Win64\PlatformaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\C++\games\Platforma\Intermediate\Build\Win64\UnrealEditor\Development\Platforma\MovingPlatform.cpp.obj"
+"D:\C++\games\Platforma\Intermediate\Build\Win64\UnrealEditor\Development\Platforma\Platforma.cpp.obj"
+"D:\C++\games\Platforma\Intermediate\Build\Win64\UnrealEditor\Development\Platforma\MovingPlatform.gen.cpp.obj"
+"D:\C++\games\Platforma\Intermediate\Build\Win64\UnrealEditor\Development\Platforma\Platforma.init.gen.cpp.obj"
+"D:\C++\games\Platforma\Intermediate\Build\Win64\UnrealEditor\Development\Platforma\Default.rc2.res"
+/OUT:"D:\C++\games\Platforma\Intermediate\Build\Win64\UnrealEditor\Development\Platforma\UnrealEditor-Platforma.lib"

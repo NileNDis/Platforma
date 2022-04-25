@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\c++\\games\\platforma\\intermediate\\build\\win64\\unrealeditor\\inc\\platforma\\platforma.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\c++\\games\\platforma\\intermediate\\build\\win64\\platformaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\c++\\games\\platforma\\intermediate\\build\\win64\\unrealeditor\\development\\platforma\\definitions.platforma.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

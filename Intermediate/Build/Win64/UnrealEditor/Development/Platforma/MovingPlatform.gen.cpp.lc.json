@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\c++\\games\\platforma\\intermediate\\build\\win64\\unrealeditor\\inc\\platforma\\movingplatform.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\c++\\games\\platforma\\intermediate\\build\\win64\\platformaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\c++\\games\\platforma\\intermediate\\build\\win64\\unrealeditor\\development\\platforma\\definitions.platforma.h",
+            "d:\\c++\\games\\platforma\\source\\platforma\\movingplatform.h",
+            "d:\\c++\\games\\platforma\\intermediate\\build\\win64\\unrealeditor\\inc\\platforma\\movingplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

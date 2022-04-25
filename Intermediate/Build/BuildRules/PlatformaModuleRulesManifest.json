@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\C++\\games\\Platforma\\Source\\Platforma\\Platforma.Build.cs",
+		"D:\\C++\\games\\Platforma\\Source\\Platforma.Target.cs",
+		"D:\\C++\\games\\Platforma\\Source\\PlatformaEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}

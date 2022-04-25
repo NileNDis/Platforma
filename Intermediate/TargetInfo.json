@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Platforma",
+			"Path": "D:\\C++\\games\\Platforma\\Source\\Platforma.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PlatformaEditor",
+			"Path": "D:\\C++\\games\\Platforma\\Source\\PlatformaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
